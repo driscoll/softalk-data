@@ -1,10 +1,38 @@
 Replication data and code for “From Programming to Products: *Softalk* Magazine and the Rise of the Personal Computer User”
 ===========================================================================================================================
 
+Citation
+========
+
+Published paper
+---------------
+
 Nooney, Laine, Kevin Driscoll, and Kera Allen. “From Programming to
 Products: *Softalk* Magazine and the Rise of the Personal Computer
-User.” Information & Culture 55, no. 2 (June 18, 2020): 105–29.
+User.” *Information & Culture* 55, no. 2 (June 18, 2020): 105–29.
 https://muse.jhu.edu/article/757558
+
+Data archive
+------------
+
+Driscoll, Kevin, Laine Nooney, and Kera Allen. “Replication Data for:
+From Programming to Products: *Softalk* Magazine and the Rise of the
+Personal Computer User,” December 15, 2020.
+https://doi.org/10.18130/V3/IHCHYM.
+
+Abstract
+========
+
+In the 1980s, the user emerged as a distinct class of personal computer
+owner motivated by instrumental goals rather than the exploratory
+pleasures of hackers and hobbyists. To understand the changing values
+and concerns of microcomputer owners, we analyzed 1,285 reader letters
+published in *Softalk* magazine between 1980 and 1984. During this
+period, a preoccupation with programming was displaced by discussions of
+software applications, products, and services. This transition
+illustrates the separation of users from hobbyists, reflecting changes
+in the software industry and attitudes toward amateurism,
+professionalization, gender, and expertise.
 
 Data and code
 =============
